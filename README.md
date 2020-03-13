@@ -2,6 +2,13 @@
 
 Using Angular 9 letest in ASP.NET Core 3.1 & Visual Studio 2019
 
+Software requirements:
+Asp.Net core 3.1 SDK
+Asp.Net core 3.1 Runtime
+Visual studio 2019
+Visual studio code
+Node letest
+Angular 9
 
 How to run?
 
